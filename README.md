@@ -19,7 +19,7 @@
 
 ---
 
-## 🌈 GitHub Stats（ポップテーマ）
+## 🌈 GitHub Stats
 <p align="center">
   <!-- main stats (radical theme = ビビッド) -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=furukawa1020&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=14" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎴 Summary Cards（ドラキュラでPOP）
+## 🎴 Summary Cards
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furukawa1020&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furukawa1020&theme=dracula" />
@@ -45,21 +45,21 @@
 
 ---
 
-## 📈 Contribution Activity Graph（ビビッド）
+## 📈 Contribution Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=furukawa1020&theme=rogue&radius=12&area=true" />
 </p>
 
 ---
 
-## 🏆 Trophies（カラフル）
+## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=furukawa1020&theme=juicyfresh&margin-w=10&row=2&column=4" />
 </p>
 
 ---
 
-## ⭐ Star History（主なリポの伸び）
+## ⭐ Star History
 <p align="center">
   <a href="https://star-history.com/#furukawa1020/LoopCutMini2&Date">
     <img src="https://api.star-history.com/svg?repos=furukawa1020/LoopCutMini2&type=Date" height="210">
@@ -74,14 +74,14 @@
 
 ---
 
-## 🧰 Languages & Tools（アイコン盛り）
+## 🧰 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nextjs,nodejs,flutter,dart,java,go,rust,php,fastapi,express,sqlite,postgresql,mysql,mongodb,prisma,tailwind,vercel,netlify,cloudflare,aws,gcp,azure,docker,git,github,vscode,figma,ai,ps,blender,linux,raspberrypi,arduino" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake（スタティック）
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
