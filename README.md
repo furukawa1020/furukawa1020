@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/furukawa1020?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/furukawa1020?style=flat&label=Followers"></a>
   <a href="https://github.com/furukawa1020"><img alt="Views" src="https://komarev.com/ghpvc/?username=furukawa1020&style=flat&color=blue" /></a>
-  <a href="https://wakatime.com/@furukawa1020"><img alt="WakaTime" src="https://wakatime.com/badge/user/furukawa1020.svg"></a>
 </p>
 
 ---
@@ -60,21 +59,14 @@
 
 ---
 
-## 🧑‍💻 Languages & Tools (icons)
+## 🧑‍💻 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nextjs,nodejs,flutter,dart,java,go,rust,php,mysql,sqlite,postgresql,mongodb,aws,gcp,azure,docker,git,github,vscode,figma,linux" />
 </p>
 
 ---
 
-## 🎵 WakaTime Weekly Stats (if using WakaTime)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=furukawa1020&layout=compact&theme=transparent" />
-</p>
-
----
-
-## 🐍 Contribution Snake (static badge版)
+## 🐍 Contribution Snake (static SVG)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
