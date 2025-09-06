@@ -1,3 +1,72 @@
+<!-- ====== Geeky & Playful Intro Section (Final with Contact) ====== -->
+
+<!-- 上部バナー -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Furukawa%20Kotaro%20🚀&fontSize=38&fontAlign=50&fontAlignY=40&desc=Tech%20%2B%20Society%20Re-design%20for%20a%20Glad-to-be-Alive%20Future&descSize=18&animation=twinkling" />
+</p>
+
+<!-- タイピングアニメーション -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2400&pause=600&color=FF3D68&center=true&vCenter=true&width=1000&lines=🌏+My+Vision%3A+技術と社会の再設計で生きててよかった未来を;✨+Re-designing+tech+%26+society+for+a+future+where+we+say+%22Glad+to+be+alive!%22;🎨+ユーザーフレンドリー+%7C+共感+%7C+心に響くものづくり;☕+Let's+talk+about+projects%2C+ideas%2C+or+just+life)" />
+</p>
+
+---
+
+## 🌏 My Vision
+技術と社会の再設計で、生きててよかったと思える未来を。  
+人々が本当に感じる瞬間を大切にし、効率だけではなく、心が満たされる社会を築く。  
+
+*Re-designing technology and society for a future where people can truly say “I’m glad to be alive.”  
+Cherishing genuine moments of feeling, building a society that values fulfillment of the heart, not just efficiency.*  
+
+---
+
+## 🛠️ My Approach
+ユーザーフレンドリーなシステムとコミュニティ、心に響くものづくりを通じて、 直感的で温かみのある体験を提供する。  
+
+*Through user-friendly systems and communities, and creations that resonate with the heart,  
+I aim to deliver intuitive and warm experiences.*  
+
+---
+
+## 🔑 3つの柱 / Three Pillars
+
+👉 **ユーザーフレンドリーなデザイン**  
+直感的で親しみやすいシステムを構築し、誰もが使いやすい体験を提供。  
+*User-friendly Design – Building intuitive, approachable systems that provide experiences anyone can use.*  
+
+👉 **共感とつながり**  
+人々が本当に感じられるコミュニティを創る。  
+*Empathy & Connection – Creating communities where people can genuinely feel and connect.*  
+
+👉 **心に響くものづくり**  
+効率偏重ではなく、感情や生活に寄り添った創造的なものづくり。  
+*Resonant Making – Focusing not only on efficiency but also on creativity that supports emotions and everyday life.*  
+
+---
+
+## 🤝 Get in Touch
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-f.kotaro.0530@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://x.com/HATAKE55555">
+    <img src="https://img.shields.io/badge/X-@HATAKE55555-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>
+💡 プロトタイピングやプロジェクト、事業に関するご相談、また協力のご提案など、どうぞお気軽にお声がけください。  
+🙋‍♂️ 現在、無職につきお仕事募集中です。もし「こいつ面白い」と思っていただけたなら、ぜひ雇ってみてください。  
+😎 XではリプやDMも歓迎しています。雑談から哲学まで、時にはカエルの話題まで、気軽に絡んでいただければ嬉しいです。  
+</i></p>
+
+---
+
+<!-- 下部バナー -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+</p>
+
+
 <!-- ====== Colorful & Pop GitHub Profile README (no Actions needed) ====== -->
 
 <!-- Fun title + typing animation -->
