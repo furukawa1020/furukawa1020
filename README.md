@@ -93,11 +93,11 @@
   <a href="https://x.com/HATAKE55555">
     <img src="https://img.shields.io/badge/X(Twitter)-@HATAKE55555-1DA1F2?logo=x&logoColor=white">
   </a>
-  <a href="mailto:furukawa1020@example.com">
-    <img src="https://img.shields.io/badge/Email-hello%40example.com-EA4335?logo=gmail&logoColor=white">
+  <a href="mailto:f.kotaro.0530@gmail.com">
+    <img src="https://img.shields.io/badge/Email-f.kotaro.0530@gmail.com-EA4335?logo=gmail&logoColor=white">
   </a>
-  <a href="https://hatakerun.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-hatakerun.netlify.app-00C7B7?logo=webflow&logoColor=white">
+  <a href="https://hatakeprofile.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-hatakeprofile.netlify.app-00C7B7?logo=webflow&logoColor=white">
   </a>
 </p>
 
