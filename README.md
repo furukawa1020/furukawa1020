@@ -13,7 +13,7 @@
 ---
 
 ## 🌏 My Vision
-技術と社会の再設計で、生きててよかったと思える未来を。  
+技術と社会、生きててよかったと思える未来を。  
 人々が本当に感じる瞬間を大切にし、効率だけではなく、心が満たされる社会を築く。  
 
 *Re-designing technology and society for a future where people can truly say “I’m glad to be alive.”  
