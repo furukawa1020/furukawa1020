@@ -7,7 +7,7 @@
 
 <!-- タイピングアニメーション -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2400&pause=600&color=FF3D68&center=true&vCenter=true&width=1000&lines=🌏+My+Vision%3A+生きててよかった瞬間をmakeする！;✨+Re-designing+tech+%26+society+for+a+future+where+we+say+%22Glad+to+be+alive!%22;🎨+ユーザーフレンドリー+%7C+共感+%7C+ものづくり;☕+Let's+talk+about+projects%2C+ideas%2C+or+just+life)" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2400&pause=600&color=FF3D68&center=true&vCenter=true&width=1000&lines=🌏+My+Vision%3A+生きててよかった瞬間をmakeする！;✨+Re-designing+tech+%26+society+for+a+future+where+we+say+%22Glad+to+be+alive!%22;🎨+ユーザーフレンドリー+%7C+HCI+%7C+ものづくり;☕+Let's+talk+about+projects%2C+ideas%2C+or+just+life)" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ I aim to deliver intuitive and warm experiences.*
 *Empathy & Connection – Creating communities where people can genuinely feel and connect.*  
 
 👉 **心に響くものづくり**  
-効率偏重ではなく、感情や生活に寄り添ったものづくり。  
+生活に寄り添ったものづくり。  
 *Resonant Making – Focusing not only on efficiency but also on creativity that supports emotions and everyday life.*  
 
 ---
@@ -53,9 +53,7 @@ I aim to deliver intuitive and warm experiences.*
 </p>
 
 <p align="center"><i>
-💡 プロトタイピングやプロジェクト、事業に関するご相談、また協力のご提案など、どうぞお気軽にお声がけください！ 
-もし「こいつ面白い」と思っていただけたなら、ぜひ雇ってみてください!!お声がけください!ぜひお話させていただきたいです！  
-🤩 XではリプやDMも大歓迎です！雑談から哲学まで、時にはカエルからフグ、哲学、電子工作、研究(主に認知科学、コミュニティデザイン、HCI)の話題まで、気軽に絡んでいただければ嬉しいです〜！
+💡 プロトタイピング！ 
 </i></p>
 
 ---
