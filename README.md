@@ -120,7 +120,7 @@ I aim to deliver intuitive and warm experiences.*
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=furukawa1020&theme=tokyonight&row=2&column=4" />
+  <img src="https://github-trophies.vercel.app/?username=furukawa1020&theme=tokyonight&row=2&column=4" />
 </p>
 
 ---
