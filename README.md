@@ -1,5 +1,5 @@
 <img width="2379" height="1186" alt="image" src="https://github.com/user-attachments/assets/3f9971cf-af67-496c-8dd6-4409a272759d" />
-https://furukawalab.com/
+https://furukawalab.com/  ←ポートフォリオ。
 
 <!-- ====== Geeky & Playful Intro Section (Final with Contact) ====== -->
 
