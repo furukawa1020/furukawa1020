@@ -165,7 +165,7 @@ I aim to deliver intuitive and warm experiences.*
   <a href="mailto:f.kotaro.0530@gmail.com">
     <img src="https://img.shields.io/badge/Email-f.kotaro.0530@gmail.com-EA4335?logo=gmail&logoColor=white">
   </a>
-  <a href="https://hatakeprofile.netlify.app/">
+  <a href="https://furukawalab.com/">
     <img src="https://img.shields.io/badge/Website-hatakeprofile.netlify.app-00C7B7?logo=webflow&logoColor=white">
   </a>
 </p>
