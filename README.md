@@ -18,7 +18,7 @@
 ---
 
 ## 🌏 My Vision
-誰もが生きててよかったと思える瞬間をmakeする！！  
+誰もが生きててよかったと思える瞬間をmakeしたい！！  
 
 *Re-designing technology and society for a future where people can truly say “I’m glad to be alive.”  
 Cherishing genuine moments of feeling, building a society that values fulfillment of the heart, not just efficiency.*  
