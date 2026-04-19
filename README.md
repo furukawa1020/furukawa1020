@@ -58,7 +58,7 @@ I aim to deliver intuitive and warm experiences.*
 </p>
 
 <p align="center"><i>
-💡 プロトタイピング！ 
+💡 プロトタイピング大好き人間です！！ 
 </i></p>
 
 ---
