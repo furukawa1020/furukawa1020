@@ -26,7 +26,7 @@ Cherishing genuine moments of feeling, building a society that values fulfillmen
 ---
 
 ## 🛠️ My Approach
-ユーザーフレンドリーなシステムとコミュニティ、心に響くものづくりを通じて、 直感的で温かみのある体験をつくる！  
+ユーザーフレンドリーなシステムとコミュニティ、心に響くものづくりを通じて、 直感的で温かみのある体験を！  
 
 *Through user-friendly systems and communities, and creations that resonate with the heart,  
 I aim to deliver intuitive and warm experiences.*  
