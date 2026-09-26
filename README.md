@@ -12,7 +12,7 @@
 
 <!-- タイピングアニメーション -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2400&pause=600&color=FF3D68&center=true&vCenter=true&width=1000&lines=🌏+My+Vision%3A+生きててよかった瞬間をmakeする！;✨+Re-designing+tech+%26+society+for+a+future+where+we+say+%22Glad+to+be+alive!%22;🎨+ユーザーフレンドリー+%7C+HCI+%7C+ものづくり;☕+Let's+talk+about+projects%2C+ideas%2C+or+just+life)" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2400&pause=600&color=FF3D68&center=true&vCenter=true&width=1000&lines=🌏+My+Vision%3A+生きててよかった瞬間をmakeする！;+Re-designing+tech+%26+society+for+a+future+where+we+say+%22Glad+to+be+alive!%22;🎨+ユーザーフレンドリー+%7C+HCI+%7C+ものづくり;☕+Let's+talk+about+projects%2C+ideas%2C+or+just+life)" />
 </p>
 
 ---
@@ -26,24 +26,24 @@ Cherishing genuine moments of feeling, building a society that values fulfillmen
 ---
 
 ## 🛠️ My Approach
-ユーザーフレンドリーなシステムとコミュニティ、心に響くものづくりを通じて、 直感的で温かみのある体験をつくる！  
+ユーザーフレンドリーなシステムとコミュニティ、心に響くものづくりを通じて、 生きててよかったという体験をつくる！  
 
 *Through user-friendly systems and communities, and creations that resonate with the heart,  
 I aim to deliver intuitive and warm experiences.*  
 
 ---
 
-## 🔑 3つの柱 / Three Pillars
+##  3つの柱 / Three Pillars
 
-👉 **ユーザーフレンドリーなデザイン**  
+ **ユーザーフレンドリーなデザイン**  
 直感的で親しみやすいシステムを構築し、誰もが使いやすい体験を提供！  
 *User-friendly Design – Building intuitive, approachable systems that provide experiences anyone can use.*  
 
-👉 **共感とつながり**  
+ **共感とつながり**  
 人々が本当に感じられるコミュニティを作りたい！
 *Empathy & Connection – Creating communities where people can genuinely feel and connect.*  
 
-👉 **心に響くものづくり**  
+**「なんかいい感じ」なものづくり**  
 生活に寄り添ったものづくり。  
 *Resonant Making – Focusing not only on efficiency but also on creativity that supports emotions and everyday life.*  
 
@@ -58,7 +58,7 @@ I aim to deliver intuitive and warm experiences.*
 </p>
 
 <p align="center"><i>
-💡 プロトタイピング大好き人間です！！ 
+ プロトタイピング大好き人間です！！ 
 </i></p>
 
 ---
@@ -126,21 +126,6 @@ I aim to deliver intuitive and warm experiences.*
 ## 🏆 Trophies
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=furukawa1020&theme=tokyonight&row=2&column=4" />
-</p>
-
----
-
-## ⭐ Star History
-<p align="center">
-  <a href="https://star-history.com/#furukawa1020/LoopCutMini2&Date">
-    <img src="https://api.star-history.com/svg?repos=furukawa1020/LoopCutMini2&type=Date" height="210">
-  </a>
-  <a href="https://star-history.com/#furukawa1020/hakusanzioleague&Date">
-    <img src="https://api.star-history.com/svg?repos=furukawa1020/hakusanzioleague&type=Date" height="210">
-  </a>
-  <a href="https://star-history.com/#furukawa1020/shiraminedaigakumura&Date">
-    <img src="https://api.star-history.com/svg?repos=furukawa1020/shiraminedaigakumura&type=Date" height="210">
-  </a>
 </p>
 
 ---
